@@ -1,2 +1,2 @@
 # POSLACK
- Communication program made with NoSQL(Firebase) &amp; React
+ Communication program made with NoSQL(Firebase) & React
